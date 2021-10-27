@@ -93,6 +93,8 @@ plt.legend()
 plt.savefig('women_in_national_parliament.jpg')
 plt.show()
 
+# ignore the rest
+
 '''
 file = open('lax.csv')
 r = csv.reader(file)
